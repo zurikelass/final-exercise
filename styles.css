@@ -4,15 +4,15 @@
 }
 
 .navigation .right-side {
-    margin-right: 120px;
-  }
-  .navigation .right-side a {
-    margin-left: 48px;
-  }
-  
-  .navigation .left-side .logo {
-      margin-left: 120px;
-  }
+  margin-right: 120px;
+}
+.navigation .right-side a {
+  margin-left: 48px;
+}
+
+.navigation .left-side .logo {
+  margin-left: 120px;
+}
 
 .first-section {
   background-image: url("images/scandinavian-interior-mockup-wall-decal-background\ 1.png");
@@ -206,11 +206,68 @@
 }
 
 .sixth-section .item .text2 {
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 28px;
-    
-    text-align: center;
-    
-    color: #666666;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+
+  text-align: center;
+
+  color: #666666;
+}
+
+.final-section {
+  background: #03344f;
+  padding-top: 50px;
+}
+
+.final-section .texts {
+  width: 400px;
+  margin-left: 105px;
+}
+
+.final-section .texts .title {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+  color: #ffffff;
+}
+
+.final-section .texts .description {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 35px;
+  color: #ffffff;
+}
+
+.final-section .texts .follow-us {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+
+  color: #ffffff;
+}
+
+.final-section .right-side {
+    /* margin-left: ; */
+}
+
+.final-section .right-side .title {
+    font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;
+}
+
+.final-section .right-side .items {
+    padding: 0;
+}
+
+.final-section .right-side .items li {
+    display: inline;
+}
+
+.final-section .right-side .items li img {
+  width: 175px;
+  height: 185px;
 }
