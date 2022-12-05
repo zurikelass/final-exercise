@@ -1,3 +1,9 @@
+ @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;1,100&display=swap'); 
+
+ .body{
+  font-family:'Raleway', sans-serif;
+ }
+
 .container-fluid .top-navbar {
   padding-top: 57px;
   padding-bottom: 48px;
@@ -150,8 +156,73 @@
   width: 372px;
   height: 373.71px;
   background-color: #09513b;
+  
+}
+.card-section .crd-t1{
+  height: 39px;
+width: 314px;
+left: 540px;
+top: 2686px;
+border-radius: nullpx;
+
+}
+.card-section .figclass{
+  
+    display: flex;
+    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr)
+
+}
+.card-section .figclass .card{
+  height: 480px;
+width: 720.5755615234375px;
+left: 842px;
+top: 2825px;
+border-radius: 0px;
+
+}
+.card-title{
+    padding: 20px;
+    margin-left: 166px;
+    height: 29px;
+width: 116px;
+left: 1062px;
+top: 3335px;
+border-radius: nullpx;
+
+}
+.five-section{
+  width: 1440px;
+  height: 363px;
+  background-color:  #F2F5FF;
+  padding: 60px;
+  text-align: center;
+}
+.five-section .title1{
+  font-weight: 700;
+  font-size: 32px;
+  color:  #333333;
 }
 
+ .five-section .title2{
+  padding: 10px;
+  font-size: 20px;
+  font-weight: 400;
+  color: #333333;
+  
+ } 
+ .five-section .form-inline{
+  display: inline-flex;
+ }
+  .five-section .form-inline .email{
+    
+width: 486px;
+border-radius: 3px;
+margin-top: 0px;
+
+
+  }
 .sixth-section {
   text-align: center;
   padding-top: 60px;
