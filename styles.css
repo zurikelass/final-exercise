@@ -27,6 +27,17 @@
   background-repeat: repeat-x;
 }
 
+.first-section .buy{
+  background: #054C73;
+  border-radius: 50px;
+  width: 229px;
+height: 70px;
+font-weight: 700;
+font-size: 16px; 
+color: #FFFFFF;
+
+}
+
 .second-section {
   text-align: center;
   background-color: #f2f5ff;
@@ -96,6 +107,17 @@
   padding: 60px;
   text-align: center;
 }
+.third-section .insp{
+  font-weight: 700;
+  font-size: 32px;
+  color: #333333;
+
+}
+.third-section .text2{
+  font-weight: 400;
+  font-size: 20px;
+  color: #666666;
+}
 .fourth-section {
   background-color: #f2f5ff;
   padding: 60px;
@@ -158,13 +180,23 @@
   background-color: #09513b;
   
 }
-.card-section .crd-t1{
-  height: 39px;
-width: 314px;
-left: 540px;
-top: 2686px;
-border-radius: nullpx;
 
+.card-section .crd-t1 {
+  margin-top: 60px;
+    text-align: center;
+    font-weight: 700;
+font-size: 32px;
+line-height: 39px;
+color: #333333;
+
+}
+.card-section .crd-t2{
+  padding: 20px;
+  text-align: center;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  color: #666666;
 }
 .card-section .figclass{
   
